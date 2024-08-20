@@ -21,7 +21,7 @@ repository               : "MaudMouginot/MaudMouginot.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_github_2024.png"
   name             : "Maud Mouginot"
   pronouns         : "she/her"  
   bio              : "<b>Evolutionary anthropologist</b><br> <br> Postdoc at <a style='color: black;' href='https://www.bu.edu/'>Boston University</a>.<br> <br>Member of <a style='color: black;' href='https://www.omovalleyresearchproject.org'>The Omo Valley Research Project</a> and secretary of the<a style='color: black;' href='http://sfdp-primatologie.fr/'> Société Francophone de Primatologie."
