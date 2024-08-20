@@ -22,5 +22,5 @@ strong coalitions, male bonobos have more individualistic reproductive strategie
 date: 2024-04-01
 venue: 'Current Biology'
 paperurl: 'http://maudmouginot.github.io/files/mouginot_2024_aggression_pan.pdf'
-citation: 'YMouginot, M., Wilson, M.L., Desai, N., Surbeck, M. (2024). Differences in expression of male aggression between wild bonobos and chimpanzees. Current Biology. 34, 1–6.'
+citation: 'Mouginot, M., Wilson, M.L., Desai, N., Surbeck, M. (2024). Differences in expression of male aggression between wild bonobos and chimpanzees. Current Biology. 34, 1–6.'
 ---
