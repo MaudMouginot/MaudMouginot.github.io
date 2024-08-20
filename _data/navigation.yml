@@ -6,22 +6,19 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+    url: /publications/ 
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Outreach"
+    url: /outreach/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Field sites"
+    url: /fieldsites/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Contact"
+    url: /contact/
