@@ -28,7 +28,7 @@ author:
   location         : "Boston, MA, USA"
   employer         : "Boston University"
   uri              : "https://www.hsb-lab.org/omo-valley-project"# URL
-  email            : "mmougino@bu.edu and mouginot.md@gmail.com" 
+  email            : "mmougino@bu.edu" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=SOsla_MAAAAJ&hl=en"
@@ -40,8 +40,8 @@ author:
     
   # Social media
   instagram        : # "@alexis_demey"
-  linkedin         : # "https://www.linkedin.com/in/maud-mouginot-193183245/"
-  twitter          : # "@MaudMouginot"
+  linkedin         : "https://www.linkedin.com/in/maud-mouginot-193183245/"
+  twitter/X          : "@MaudMouginot"
   
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
