@@ -15,6 +15,6 @@ I was previously a research fellow at [the Institute for Advanced Study in Toulo
 
 I am also a french science-fiction author under the pseudonym Alexis Demey. I published two novels which aim to introduce anthropology to a broad audience using science-fiction and will publish more in the future.
 
-Research statement: From forensic anthropology to evolutionnary anthropology 
+Research statement 
 ======
 
