@@ -71,37 +71,37 @@ Learning how to communicate research results to different disciplines especially
 Publications
 ======
 _ * **Published:**_
-**Mouginot M.**, Cheng L., Feldblum, J.T., Gilby, I., Pusey, A., Städele V., Wroblewski, E., Wilson, M.L., Surbeck, M. (2023). Reproductive inequality among males in the genus _Pan_. _Phil. Trans. R. Soc._ B 378: 20220301.
-**Mouginot, M.**, Wilson, M.L., Desai, N., Surbeck, M. Differences in expression of male aggression between wild bonobos and chimpanzees. _Current Biology_ - April 12th.
+- **Mouginot M.**, Cheng L., Feldblum, J.T., Gilby, I., Pusey, A., Städele V., Wroblewski, E., Wilson, M.L., Surbeck, M. (2023). Reproductive inequality among males in the genus _Pan_. _Phil. Trans. R. Soc._ B 378: 20220301.
+- **Mouginot, M.**, Wilson, M.L., Desai, N., Surbeck, M. Differences in expression of male aggression between wild bonobos and chimpanzees. _Current Biology_ - April 12th.
 
 _ * **In preparation:**_
-Renner, G., Crouse, K., **Mouginot, M.** Modeling the environment of bonobos and chimpanzees using B3GET. _Animal Behavior._
-**Mouginot, M.**, Wilson, M.L., Surbeck, M. Differences in adult male-immature interactions between bonobos and chimpanzees. _Journal of Human Evolution_.
+- Renner, G., Crouse, K., **Mouginot, M.** Modeling the environment of bonobos and chimpanzees using B3GET. _Animal Behavior._
+- **Mouginot, M.**, Wilson, M.L., Surbeck, M. Differences in adult male-immature interactions between bonobos and chimpanzees. _Journal of Human Evolution_.
 
 Talks
 ======
 _ * **Conferences:**_
-**Mouginot, M.**, Wilson, M.L., Desai, N., Surbeck, M. “Male adult-immature interactions in bonobos in comparison to chimpanzees” – 35th Annual Meeting of the Société Francophone de Primatology.
-**Mouginot, M.**, Wilson, M.L., Desai, N., Surbeck, M. “Comparing aggression between wild bonobos and chimpanzees: Self-domestication or convergence with monkeys?” -  91th Annual Meeting of the American Association of Biological Anthropologists. 
-Renner, G., Crouse, K., **Mouginot, M.**, “Modeling the environment of bonobos and chimpanzees using B3GET”-  91th Annual Meeting of the American Association of Biological Anthropologists.
+- **Mouginot, M.**, Wilson, M.L., Desai, N., Surbeck, M. “Male adult-immature interactions in bonobos in comparison to chimpanzees” – 35th Annual Meeting of the Société Francophone de Primatology.
+- **Mouginot, M.**, Wilson, M.L., Desai, N., Surbeck, M. “Comparing aggression between wild bonobos and chimpanzees: Self-domestication or convergence with monkeys?” -  91th Annual Meeting of the American Association of Biological Anthropologists. 
+- Renner, G., Crouse, K., **Mouginot, M.**, “Modeling the environment of bonobos and chimpanzees using B3GET”-  91th Annual Meeting of the American Association of Biological Anthropologists.
 
 _ * **Guest Lectures:**_
-Lecture on “Cooperation and marriage” – ANTH/EEB 3002 Sex, Evolution, and Behavior – University of Minnesota - March 2019.
-Lecture on “senescence, aging, and menopause” – ANTH/EEB 3002 Sex, Evolution, and Behavior – University of Minnesota - March 2018.
+- Lecture on “Cooperation and marriage” – ANTH/EEB 3002 Sex, Evolution, and Behavior – University of Minnesota - March 2019.
+- Lecture on “senescence, aging, and menopause” – ANTH/EEB 3002 Sex, Evolution, and Behavior – University of Minnesota - March 2018.
 
 _ * **Other Presentations:**_
 _**Professional Talks**_
-Mouginot M. “The peaceful bonobo and the aggressive chimpanzee: the data behind the myth” – Invited talk at the Institute of Evolutionary Sciences of Montpellier (ISEM) – January 2024.
-Mouginot M. “Male adult-immature interactions in bonobos in comparison to chimpanzees” Institute of Advanced Study in Toulouse (IAST) – October 2023.
-Mouginot M. “The peaceful bonobo and the aggressive chimpanzee: the data behind the myth” Dr. Luke Glowacki Lab, Department of Anthropology, Boston University – November 2022.
-Mouginot M. “The peaceful bonobo and the aggressive chimpanzee: the data behind the myth” EEB group, Department of Evolution, Ecology and Behavior, University of Minnesota – September 2022.
-Mouginot M. “Reproductive strategies in bonobos and chimpanzees” Brown Bag series talk, Department of Anthropology, University of Minnesota – January 2022.
-Mouginot M. “Male bonobo reproductive strategies”, Department of Human Evolutionary Biology, Harvard University – April 2021.
-Mouginot M. “Aggression in male bonobos and chimpanzees”, Department of Human Evolutionary Biology, Harvard University, November 2021.
+- Mouginot M. “The peaceful bonobo and the aggressive chimpanzee: the data behind the myth” – Invited talk at the Institute of Evolutionary Sciences of Montpellier (ISEM) – January 2024.
+- Mouginot M. “Male adult-immature interactions in bonobos in comparison to chimpanzees” Institute of Advanced Study in Toulouse (IAST) – October 2023.
+- Mouginot M. “The peaceful bonobo and the aggressive chimpanzee: the data behind the myth” Dr. Luke Glowacki Lab, Department of Anthropology, Boston University – November 2022.
+- Mouginot M. “The peaceful bonobo and the aggressive chimpanzee: the data behind the myth” EEB group, Department of Evolution, Ecology and Behavior, University of Minnesota – September 2022.
+- Mouginot M. “Reproductive strategies in bonobos and chimpanzees” Brown Bag series talk, Department of Anthropology, University of Minnesota – January 2022.
+- Mouginot M. “Male bonobo reproductive strategies”, Department of Human Evolutionary Biology, Harvard University – April 2021.
+- Mouginot M. “Aggression in male bonobos and chimpanzees”, Department of Human Evolutionary Biology, Harvard University, November 2021.
 _**Outreach Talks**_
-Mouginot M. “Être anthropologue évolutionniste” (Being an evolutionary anthropologist) – Eurekafé, Toulouse, France – January 2024.
-Mouginot M. “Science-fiction and anthropology”, 40th annual umn undergraduate anthropology conference, University of Minnesota – March 2019.
-Mouginot M. “Science-fiction and anthropology”, Alliance Française, Minneapolis – October 2018.
+- Mouginot M. “Être anthropologue évolutionniste” (Being an evolutionary anthropologist) – Eurekafé, Toulouse, France – January 2024.
+- Mouginot M. “Science-fiction and anthropology”, 40th annual umn undergraduate anthropology conference, University of Minnesota – March 2019.
+- Mouginot M. “Science-fiction and anthropology”, Alliance Française, Minneapolis – October 2018.
   
 Teaching Experience
 ======
