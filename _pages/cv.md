@@ -70,27 +70,27 @@ Learning how to communicate research results to different disciplines especially
 
 Publications
 ======
-_ * **Published:**_
+_* **Published:**_
 - **Mouginot M.**, Cheng L., Feldblum, J.T., Gilby, I., Pusey, A., Städele V., Wroblewski, E., Wilson, M.L., Surbeck, M. (2023). Reproductive inequality among males in the genus _Pan_. _Phil. Trans. R. Soc._ B 378: 20220301.
 - **Mouginot, M.**, Wilson, M.L., Desai, N., Surbeck, M. Differences in expression of male aggression between wild bonobos and chimpanzees. _Current Biology_ - April 12th.
 
-_ * **In preparation:**_
+_* **In preparation:**_
 - Renner, G., Crouse, K., **Mouginot, M.** Modeling the environment of bonobos and chimpanzees using B3GET. _Animal Behavior._
 - **Mouginot, M.**, Wilson, M.L., Surbeck, M. Differences in adult male-immature interactions between bonobos and chimpanzees. _Journal of Human Evolution_.
 
 Talks
 ======
-_ * **Conferences:**_
+_* **Conferences:**_
 - **Mouginot, M.**, Wilson, M.L., Desai, N., Surbeck, M. “Male adult-immature interactions in bonobos in comparison to chimpanzees” – 35th Annual Meeting of the Société Francophone de Primatology.
 - **Mouginot, M.**, Wilson, M.L., Desai, N., Surbeck, M. “Comparing aggression between wild bonobos and chimpanzees: Self-domestication or convergence with monkeys?” -  91th Annual Meeting of the American Association of Biological Anthropologists. 
 - Renner, G., Crouse, K., **Mouginot, M.**, “Modeling the environment of bonobos and chimpanzees using B3GET”-  91th Annual Meeting of the American Association of Biological Anthropologists.
 
-_ * **Guest Lectures:**_
+_* **Guest Lectures:**_
 - Lecture on “Cooperation and marriage” – ANTH/EEB 3002 Sex, Evolution, and Behavior – University of Minnesota - March 2019.
 - Lecture on “senescence, aging, and menopause” – ANTH/EEB 3002 Sex, Evolution, and Behavior – University of Minnesota - March 2018.
 
-_ * **Other Presentations:**_
-_**Professional Talks**_
+_* **Other Presentations:**_
+  -_**Professional Talks**_
 - Mouginot M. “The peaceful bonobo and the aggressive chimpanzee: the data behind the myth” – Invited talk at the Institute of Evolutionary Sciences of Montpellier (ISEM) – January 2024.
 - Mouginot M. “Male adult-immature interactions in bonobos in comparison to chimpanzees” Institute of Advanced Study in Toulouse (IAST) – October 2023.
 - Mouginot M. “The peaceful bonobo and the aggressive chimpanzee: the data behind the myth” Dr. Luke Glowacki Lab, Department of Anthropology, Boston University – November 2022.
@@ -98,26 +98,26 @@ _**Professional Talks**_
 - Mouginot M. “Reproductive strategies in bonobos and chimpanzees” Brown Bag series talk, Department of Anthropology, University of Minnesota – January 2022.
 - Mouginot M. “Male bonobo reproductive strategies”, Department of Human Evolutionary Biology, Harvard University – April 2021.
 - Mouginot M. “Aggression in male bonobos and chimpanzees”, Department of Human Evolutionary Biology, Harvard University, November 2021.
-_**Outreach Talks**_
+  -_**Outreach Talks**_
 - Mouginot M. “Être anthropologue évolutionniste” (Being an evolutionary anthropologist) – Eurekafé, Toulouse, France – January 2024.
 - Mouginot M. “Science-fiction and anthropology”, 40th annual umn undergraduate anthropology conference, University of Minnesota – March 2019.
 - Mouginot M. “Science-fiction and anthropology”, Alliance Française, Minneapolis – October 2018.
   
 Teaching Experience
 ======
-  * 2022: Instructor of record - Human evolution (50 students), Department of anthropology, University of Minnesota – Fall 2022.
-        Instructor of record - Anthropology and science-fiction (14 students), Department of anthropology, University of Minnesota – Summer 2022.
-        Instructor of record - Human evolution (40 students), Department of anthropology, University of Minnesota – Spring 2022.
-  * 2021: Lab administrator and instructor - Human evolution, Department of anthropology, University of Minnesota – Fall 2021 (Created new version of Human evolution labs (hybrid version)).
-        Lab instructor: Human evolution, Department of anthropology, University of Minnesota – Summer 2021.
-  * 2020: Lab administrator and instructor: Human evolution, Department of anthropology, University of Minnesota – Fall 2020.
-        Lab administrator and instructor: Human evolution, Department of anthropology, University of Minnesota – Summer 2020. Co-created new version of Human evolution labs (online version).
-        Lab instructor: Sex, human and Evolution, Department of anthropology, University of Minnesota – Spring 2020.
-  * 2019: Lab administrator and instructor: Human evolution, Department of anthropology, University of Minnesota – Fall 2019.
-        Lab instructor: Sex, human and Evolution, Department of anthropology, University of Minnesota – Spring 2019.
-  * 2018: Lab instructor: Human evolution, Department of anthropology, University of Minnesota – Fall 2018
-         Lab instructor: Sex, human and Evolution, Department of anthropology, University of Minnesota – Spring 2018.
-  * 2017: Lab instructor: Human evolution, Department of anthropology, University of Minnesota – Fall 2017.
+  * Fall 2022- **Instructor of record:** Human evolution (50 students), Department of anthropology, University of Minnesota.
+  * Summer 2022 - **Instructor of record**: Anthropology and science-fiction (14 students), Department of anthropology, University of Minnesota.
+  * Spring 2022 - **Instructor of record**: Human evolution (40 students), Department of anthropology, University of Minnesota.
+  * Fall 2021 - **Lab administrator and instructor**: Human evolution, Department of anthropology, University of Minnesota. Created new version of Human evolution labs (hybrid version).
+  * Summer 2020 - **Lab instructor**: Human evolution, Department of anthropology, University of Minnesota.
+  * Fall 2020 - **Lab administrator and instructor**: Human evolution, Department of anthropology, University of Minnesota.
+  * Summer 2020 - **Lab administrator and instructor**: Human evolution, Department of anthropology, University of Minnesota. Co-created new version of Human evolution labs (online version).
+  * Spring 2020 - **Lab instructor**: Sex, human and Evolution, Department of anthropology, University of Minnesota.
+  * Spring 2019 - **Lab administrator and instructor**: Human evolution, Department of anthropology, University of Minnesota.
+  * Spring 2019 - **Lab instructor**: Sex, human and Evolution, Department of anthropology, University of Minnesota.
+  * Fall 2018 - **Lab instructor**: Human evolution, Department of anthropology, University of Minnesota.
+  * Spring 2018 - **Lab instructor**: Sex, human and Evolution, Department of anthropology, University of Minnesota.
+  * Fall 2017 - **Lab instructor**: Human evolution, Department of anthropology, University of Minnesota.
   
 Honors and Awards
 ======
@@ -129,8 +129,8 @@ Honors and Awards
 
 Other Work Experience - Author
 ======
-Published novel: Alexis Demey. 2022. “La veilleuse d’âmes – La voix des morts”. Lucca Edition. Lille, France. Using science-fiction to teach anthropology to a broad audience.
-Published novel: Alexis Demey. 2018. “La veilleuse d’âmes – L’arbre des liens”. Lucca Edition. Lille, France. Using science-fiction to teach anthropology to a broad audience.
+- Published novel: Alexis Demey. 2022. “La veilleuse d’âmes – La voix des morts”. Lucca Edition. Lille, France. Using science-fiction to teach anthropology to a broad audience.
+- Published novel: Alexis Demey. 2018. “La veilleuse d’âmes – L’arbre des liens”. Lucca Edition. Lille, France. Using science-fiction to teach anthropology to a broad audience.
   
 Professional Services 
 ======
