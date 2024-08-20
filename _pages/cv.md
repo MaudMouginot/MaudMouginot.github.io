@@ -51,7 +51,6 @@ Using morphometry geometric methods to study the shape of the frontal bone on sk
 Learning how to communicate research results to different disciplines especially during conferences and learning how to prepare a scientific poster.
 
 *_**ODK-X work**_
-  * 2024 - : **Forensic Anthropology, University of Aix-Marseille (France).**
 - Co-develop the AnthroCollect application with ODK-X Survey for the Omo Valley Project – This app is designed to link individuals and households as well as to support phonetic research of individual’s name. It directly creates a relational database and assign a unique ID for each household and individual. It also enables the creation of customized forms for conducting interviews at the household or individual levels.
 - Design and develop interview forms using ODK-X survey for various data collection contexts, including household, individual census, and social network surveys.
 
