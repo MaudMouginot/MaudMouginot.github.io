@@ -14,19 +14,19 @@ I am dedicated to making science, particularly anthropology, accessible to a bro
 
  *_**Published Novels**_
 
-Alexis Demey. 2022. “La veilleuse d’âmes – La voix des morts”. Lucca Edition. Lille, France.
-Alexis Demey. 2018. “La veilleuse d’âmes – L’arbre des liens”. Lucca Edition. Lille, France. 
+- Alexis Demey. 2022. “La veilleuse d’âmes – La voix des morts”. Lucca Edition. Lille, France.
+- Alexis Demey. 2018. “La veilleuse d’âmes – L’arbre des liens”. Lucca Edition. Lille, France. 
 
  *_**Outreach talks**_
  
-Mouginot M. “Être anthropologue évolutionniste” (Being an evolutionary anthropologist) – Eurekafé, Toulouse, France – January 2024.
-Mouginot M. “Science-fiction and anthropology”, 40th annual umn undergraduate anthropology conference, University of Minnesota – March 2019.
-Mouginot M. “Science-fiction and anthropology”, Alliance Française, Minneapolis – October 2018.
+- Mouginot M. “Être anthropologue évolutionniste” (Being an evolutionary anthropologist) – Eurekafé, Toulouse, France – January 2024.
+- Mouginot M. “Science-fiction and anthropology”, 40th annual umn undergraduate anthropology conference, University of Minnesota – March 2019.
+- Mouginot M. “Science-fiction and anthropology”, Alliance Française, Minneapolis – October 2018.
 
  *_**Radio Participation**_
 
-RTS – CQFD – “Les bonobos bagarreurs ont plus de succès auprès des femelles” 04/15/2024.
-BBC – Naked Scientists - “'Peaceful' bonobos more aggressive than first thought” 04/12/2024.
-CBC – quirks and quarks – “Bonobos are not as nice as their reputation suggests” 04/13/2024.
-NPR - Science Friday – “Bonobos Are Gentler Than Chimps? Maybe Not” 04/26/2024.
-Radio-Canada – Les Années Lumières – “Bonobos : pas si placides que ça” – 04/28/2024.
+- RTS – CQFD – “Les bonobos bagarreurs ont plus de succès auprès des femelles” 04/15/2024.
+- BBC – Naked Scientists - “'Peaceful' bonobos more aggressive than first thought” 04/12/2024.
+- CBC – quirks and quarks – “Bonobos are not as nice as their reputation suggests” 04/13/2024.
+- NPR - Science Friday – “Bonobos Are Gentler Than Chimps? Maybe Not” 04/26/2024.
+- Radio-Canada – Les Années Lumières – “Bonobos : pas si placides que ça” – 04/28/2024.
