@@ -100,7 +100,7 @@ _* **Other Presentations:**_
 
   Outreach Talks
   ======
-_* **Outreach Talks**__
+_* **Outreach Talks**_
 - Mouginot M. “Être anthropologue évolutionniste” (Being an evolutionary anthropologist) – Eurekafé, Toulouse, France – January 2024.
 - Mouginot M. “Science-fiction and anthropology”, 40th annual umn undergraduate anthropology conference, University of Minnesota – March 2019.
 - Mouginot M. “Science-fiction and anthropology”, Alliance Française, Minneapolis – October 2018.
