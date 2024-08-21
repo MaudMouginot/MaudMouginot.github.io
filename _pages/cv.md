@@ -78,7 +78,7 @@ _* **In preparation:**_
 - Renner, G., Crouse, K., **Mouginot, M.** Modeling the environment of bonobos and chimpanzees using B3GET. _Animal Behavior._
 - **Mouginot, M.**, Wilson, M.L., Surbeck, M. Differences in adult male-immature interactions between bonobos and chimpanzees. _Journal of Human Evolution_.
 
-Talks
+Professional Talks
 ======
 _* **Conferences:**_
 - **Mouginot, M.**, Wilson, M.L., Desai, N., Surbeck, M. “Male adult-immature interactions in bonobos in comparison to chimpanzees” – 35th Annual Meeting of the Société Francophone de Primatology.
@@ -90,7 +90,6 @@ _* **Guest Lectures:**_
 - Lecture on “senescence, aging, and menopause” – ANTH/EEB 3002 Sex, Evolution, and Behavior – University of Minnesota - March 2018.
 
 _* **Other Presentations:**_
-    *_**Professional Talks**_
 - Mouginot M. “The peaceful bonobo and the aggressive chimpanzee: the data behind the myth” – Invited talk at the Institute of Evolutionary Sciences of Montpellier (ISEM) – January 2024.
 - Mouginot M. “Male adult-immature interactions in bonobos in comparison to chimpanzees” Institute of Advanced Study in Toulouse (IAST) – October 2023.
 - Mouginot M. “The peaceful bonobo and the aggressive chimpanzee: the data behind the myth” Dr. Luke Glowacki Lab, Department of Anthropology, Boston University – November 2022.
@@ -98,19 +97,20 @@ _* **Other Presentations:**_
 - Mouginot M. “Reproductive strategies in bonobos and chimpanzees” Brown Bag series talk, Department of Anthropology, University of Minnesota – January 2022.
 - Mouginot M. “Male bonobo reproductive strategies”, Department of Human Evolutionary Biology, Harvard University – April 2021.
 - Mouginot M. “Aggression in male bonobos and chimpanzees”, Department of Human Evolutionary Biology, Harvard University, November 2021.
-- 
-    *_**Outreach Talks**_
+
+  Outreach Talks
+  ======
+_* **Outreach Talks**__
 - Mouginot M. “Être anthropologue évolutionniste” (Being an evolutionary anthropologist) – Eurekafé, Toulouse, France – January 2024.
 - Mouginot M. “Science-fiction and anthropology”, 40th annual umn undergraduate anthropology conference, University of Minnesota – March 2019.
 - Mouginot M. “Science-fiction and anthropology”, Alliance Française, Minneapolis – October 2018.
 - 
-    *_**Radio participation**_
+_* **Radio participation**_
 - RTS – CQFD – “Les bonobos bagarreurs ont plus de succès auprès des femelles” 04/15/2024.
 - BBC – Naked Scientists  - “'Peaceful' bonobos more aggressive than first thought” 04/12/2024.
 - CBC – quirks and quarks – “Bonobos are not as nice as their reputation suggests” 04/13/2024.
 - NPR - Science Friday – “Bonobos Are Gentler Than Chimps? Maybe Not” 04/26/2024.
 - Radio-Canada – Les Années Lumières – “Bonobos : pas si placides que ça” – 04/28/2024.
-
   
 Teaching Experience
 ======
