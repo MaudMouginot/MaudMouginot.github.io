@@ -3,8 +3,12 @@ layout: archive
 title: "Outreach"
 permalink: /outreach/
 author_profile: true
+redirect_from:
+  - /resume
 ---
+
 {% include base_path %}
+
 
 I am dedicated to making science, particularly anthropology, accessible to a broad audience. Notably, I achieve this by writing science fiction novels that serve as a medium to teach anthropological concepts.
 
