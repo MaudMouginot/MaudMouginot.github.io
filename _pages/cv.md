@@ -98,10 +98,19 @@ _* **Other Presentations:**_
 - Mouginot M. “Reproductive strategies in bonobos and chimpanzees” Brown Bag series talk, Department of Anthropology, University of Minnesota – January 2022.
 - Mouginot M. “Male bonobo reproductive strategies”, Department of Human Evolutionary Biology, Harvard University – April 2021.
 - Mouginot M. “Aggression in male bonobos and chimpanzees”, Department of Human Evolutionary Biology, Harvard University, November 2021.
+- 
   -_**Outreach Talks**_
 - Mouginot M. “Être anthropologue évolutionniste” (Being an evolutionary anthropologist) – Eurekafé, Toulouse, France – January 2024.
 - Mouginot M. “Science-fiction and anthropology”, 40th annual umn undergraduate anthropology conference, University of Minnesota – March 2019.
 - Mouginot M. “Science-fiction and anthropology”, Alliance Française, Minneapolis – October 2018.
+- 
+  -_**Radio participation**_
+- RTS – CQFD – “Les bonobos bagarreurs ont plus de succès auprès des femelles” 04/15/2024.
+- BBC – Naked Scientists  - “'Peaceful' bonobos more aggressive than first thought” 04/12/2024.
+- CBC – quirks and quarks – “Bonobos are not as nice as their reputation suggests” 04/13/2024.
+- NPR - Science Friday – “Bonobos Are Gentler Than Chimps? Maybe Not” 04/26/2024.
+- Radio-Canada – Les Années Lumières – “Bonobos : pas si placides que ça” – 04/28/2024.
+
   
 Teaching Experience
 ======
